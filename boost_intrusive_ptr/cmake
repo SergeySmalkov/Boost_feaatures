@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+project(Intrusive_pointer_boost)
+
+set(CMAKE_CXX_STANDARD 23)
+
+add_executable(Intrusive_pointer_boost main.cpp)
